@@ -5,7 +5,10 @@ Do not copy or submit any part of this project as your own. Doing so may be cons
 I do not take responsibility for any misuse of this code.
 
 This is for eduactional uses only
-What this project is: A JavaFX-based bookstore application that supports two user types: Owner and Customer.
+
+------------------------------------------------------------------------------------------------------------------------
+
+What is this project : A JavaFX-based bookstore application that supports two user types: Owner and Customer.
 Features include:
 
 User login system
